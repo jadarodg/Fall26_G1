@@ -45,3 +45,8 @@ After selecting a floor, shows the rooms and locations on that floor
 - Backend features to support stronger frontend navigation (to be filled
   in as decided — e.g. building search autocomplete, floor-plan image
   endpoints).
+
+
+## Figma Prototype
+
+[View the interactive prototype](https://www.figma.com/design/KLO3v6UELNYGNn7ymmxZA8/SE-F26-%257C-Group-1?node-id=58-209&p=f&t=HJI28G17TAAxBREU-0)
