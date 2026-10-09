@@ -1,8 +1,6 @@
-Jada Rodgers
+## Jada Rodgers_G1
 
-## Meeting 1 — September 22 2026 10:45-11:45
-
-Attendees: Jada Rodgers, Garret Godwin, Amirah Muhammad
+## Meeting 1 — September 22 2026 10:45-11:45 | Duration 1 Hour
 
 ### 1. Prototypes developed
 
